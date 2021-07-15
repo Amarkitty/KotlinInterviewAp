@@ -31,7 +31,7 @@ class ViewPageAdapters(
         val itemView = inflater!!.inflate(R.layout.ic_image_viewpage_view, null)
 
         val imageView: ImageView = itemView.findViewById<View>(R.id.imageView) as ImageView
-        val progressBar: ProgressBar = itemView.findViewById<View>(R.id.progressBar) as ProgressBar
+
 
 
 
